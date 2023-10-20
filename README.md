@@ -1,4 +1,4 @@
-Hierarchical Graph Convolutional Networks for Image Classification
+Hierarchical Image Graph with Scale Importance
 =====
 
 Implementation of our IEEE ISM 2023 paper "Multi-Scale Image Graph Representation: A Novel GNN Approach for Image Classification through Scale Importance Estimation" authored by:
