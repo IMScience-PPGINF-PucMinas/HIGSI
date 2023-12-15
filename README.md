@@ -15,7 +15,7 @@ Image representation as graphs can enhance the understanding of image semantics 
 
 ```
 git clone "https://github.com/IMScience-PPGINF-PucMinas/HIGSI.git"
-cd "HGCIC"
+cd "HIGSI"
 ```
 
 1. Create and activate the environment
